@@ -1,0 +1,7 @@
+{
+  "name": "MediMate AI",
+  "description": "Your empathetic healthcare companion for explaining medical documents, tracking symptoms, and providing safety guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
