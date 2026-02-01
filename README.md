@@ -41,10 +41,6 @@ This project was built for the [Google DeepMind Gemini 3 Hackathon](https://gemi
 | **Health Chat** | Natural language understanding + Multilingual support |
 | **Safety Protocols** | Advanced reasoning for emergency detection |
 
-**Models Used:**
-- 🚀 **Gemini 2.0 Flash Experimental** - Fast processing for real-time interactions
-- 🧠 **Gemini 1.5 Pro** - Complex medical document analysis and reasoning
-
 ---
 
 ## 🚀 Key Features
