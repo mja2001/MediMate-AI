@@ -135,9 +135,6 @@ Get answers to health questions in your language.
 
 ---
 
-
----
-
 ## 📖 Usage Examples
 
 ### Example 1: Analyzing Lab Results 🩸
@@ -649,7 +646,6 @@ observable changes. Continue following your healthcare provider's specific
 instructions. If you have any concerns about your wound or healing process, 
 contact your doctor. This analysis does not replace professional medical 
 evaluation.
-```
 
 
 
